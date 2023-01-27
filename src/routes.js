@@ -1,6 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable quotes */
-
 const {
   addBookHandler,
   getBooksHandler,
